@@ -14,9 +14,9 @@ I am a bakend developer! welcome!
 <img align="left" width="100px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/ANGULAR.png"/>
 <img align="left" width="100px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/MDB.jpg"/>
 <img align="left" width="70px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/Formik-1.png"/>
-<img align="left" width="70px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/axios1.png"/><br/>
+<img align="left" width="70px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/axios1.png"/>
 
-##
+
 <img align="left" width="70px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/astuces-php1.jpg"/>
 <img align="left" width="130px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/html-css-js.jpg"/>
 <img align="left" width="100px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/java-logo.jpg"/>
