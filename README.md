@@ -4,7 +4,7 @@ I am a bakend developer! welcome!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReneRugaba&theme=calm&show_icons=true)
 
-## Frameworks and Libraries:
+## My skills:
 <img align="left" width="70px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/SYMF.jpg"/>
 <img align="left" width="70px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/nest.png"/>
 <img align="left" width="100px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/express.png"/>
@@ -16,7 +16,7 @@ I am a bakend developer! welcome!
 <img align="left" width="70px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/Formik-1.png"/>
 <img align="left" width="70px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/axios1.png"/><br/>
 
-<hr/>
+
 <img align="left" width="70px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/astuces-php1.jpg"/>
 <img align="left" width="130px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/html-css-js.jpg"/>
 <img align="left" width="100px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/java-logo.jpg"/>
