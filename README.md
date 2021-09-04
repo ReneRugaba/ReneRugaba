@@ -1,6 +1,7 @@
 ### Hi there, my name is Rugaba René Jean 👋
 
 ## I am a bakend developer! welcome!
+![Cover](https://github.com/ReneRugaba/ReneRugaba/blob/main/img/couverture.jpg)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ReneRugaba&theme=monokai)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReneRugaba&theme=calm&show_icons=true)
 
