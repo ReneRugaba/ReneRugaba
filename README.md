@@ -2,7 +2,7 @@
 
 ## I am a bakend developer! welcome!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReneRugaba)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReneRugaba&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReneRugaba&theme=calm&show_icons=true)
