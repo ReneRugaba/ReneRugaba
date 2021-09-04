@@ -19,7 +19,7 @@ I am a bakend developer! welcome!
 ## Languages
 
 <img align="left" width="100px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/astuces-php1.jpg"/>
-<img align="left" width="100px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/html-css-js.jpg"/>
-<img align="left" width="70px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/java-logo.jpg"/>
-<img align="left" width="70px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/typescript.png"/>
+<img align="left" width="130px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/html-css-js.jpg"/>
+<img align="left" width="100px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/java-logo.jpg"/>
+<img align="left" width="100px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/typescript.png"/>
 
