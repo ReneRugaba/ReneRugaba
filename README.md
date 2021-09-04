@@ -8,6 +8,6 @@ I am a bakend developer! Welcom!
 <img align="left" width="250px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/SYMF.jpg"/>
 <img align="left" width="250px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/0%20T6tdupZFishq1o5t.png"/>
 <img align="left" width="250px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/REACT.png"/>
-<img align="left" width="250px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/ANGULAR.png"/>
+<img  width="250px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/ANGULAR.png"/>
 
 
