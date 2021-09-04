@@ -1,6 +1,5 @@
 ### Hi there, my name is Rugaba René Jean 👋
 
-<!--
 
 Here are some ideas to get you started:
 
@@ -8,4 +7,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with stackoverflow
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=calm&show_icons=true)
--->
