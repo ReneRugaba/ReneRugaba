@@ -9,7 +9,7 @@
 ## My skills:
 <div><img align="left" width="100px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/SYMF.jpg"/></div>
 <div><img align="left" width="100px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/nest.png"/></div>
-<div><img align="left" width="130px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/express.png"/></div>
+<div><img align="left" width="150px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/express.png"/></div>
 <div><img align="left" width="130px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/0%20T6tdupZFishq1o5t.png"/></div>
 <div><img align="left" width="130px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/REACT.png"/></div>
 <div><img align="left" width="130px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/Formik-1.png"/></div>
