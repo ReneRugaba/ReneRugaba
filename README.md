@@ -15,16 +15,16 @@
 </div>
 <br>
 <div style="margin: 15px" width="100%">
-<img align="left" width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/REACT.png"/>
-<img align="left" width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/Formik-1.png"/>
-<img align="left" width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/axios1.png"/>
-<img align="left" width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/ANGULAR.png"/>
-<img align="left" width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/MDB.jpg"/>
+<img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/REACT.png"/>
+<img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/Formik-1.png"/>
+<img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/axios1.png"/>
+<img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/ANGULAR.png"/>
+<img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/MDB.jpg"/>
 </div>
 <br>
 <div  style="margin: 15px" width="100%">
-<img align="left" width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/astuces-php1.jpg"/>
-<img align="left" width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/html-css-js.jpg"/>
-<img align="left" width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/java-logo.jpg"/>
-<img align="left" width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/typescript.png"/>
+<img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/astuces-php1.jpg"/>
+<img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/html-css-js.jpg"/>
+<img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/java-logo.jpg"/>
+<img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/typescript.png"/>
 </div>
