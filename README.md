@@ -8,9 +8,9 @@
 
 ## MY SKILLS:
 
-## Language:
+## Languages:
 
-## Framworks:
+## Framworks / Library:
 
 <div  style="margin: 15px" width="100%">
 <img width="20%"  src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/SYMF.jpg"/>
