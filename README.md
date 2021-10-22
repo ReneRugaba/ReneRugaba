@@ -28,3 +28,7 @@
 <img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/java-logo.jpg"/>
 <img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/typescript.png"/>
 </div>
+<div  style="margin: 15px" width="100%">
+<img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/react-native-workshop (1).jpg"/>
+<img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/Logo-Docker.jpg"/>
+</div>
