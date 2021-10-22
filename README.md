@@ -2,7 +2,6 @@
 
 ## I am a backend developer! welcome!
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ReneRugaba&theme=monokai)
-![](https://raw.githubusercontent.com/ReneRugaba/github-profile-summary-cards-example/master/profile-summary-card-output/default/1-repos-per-language.svg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReneRugaba&theme=calm&show_icons=true)
 
 
