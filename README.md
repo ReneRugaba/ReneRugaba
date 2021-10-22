@@ -23,9 +23,8 @@
 </div>
 <br>
 <div width="100%">
-<div><img align="left" width="100px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/Formik-1.png"/></div>
-<div><img align="left" width="130px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/astuces-php1.jpg"/></div>
-<div><img align="left" width="130px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/html-css-js.jpg"/></div>
-<div><img align="left" width="130px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/java-logo.jpg"/></div>
-<div><img align="left" width="100px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/typescript.png"/></div>
+<img align="left" width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/astuces-php1.jpg"/>
+<img align="left" width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/html-css-js.jpg"/>
+<img align="left" width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/java-logo.jpg"/>
+<img align="left" width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/typescript.png"/>
 </div>
