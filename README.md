@@ -20,15 +20,16 @@
 
 <div  style="margin: 15px" width="100%">
 <img width="20%"  width="100px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/nest.png"/>
-<img width="20%"  src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/SYMF.jpg"/>
 <img width="20%"  width="130px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/0%20T6tdupZFishq1o5t.png"/>
+<img width="20%"  src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/SYMF.jpg"/>
 <img width="20%"  width="130px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/express.png"/>
 
 </div>
 <br>
 <div style="margin: 15px" width="100%">
-<img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/REACT.png"/>
 <img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/Formik-1.png"/>
+<img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/REACT.png"/>
+
 <img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/axios1.png"/>
 <img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/ANGULAR.png"/>
 <img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/MDB.jpg"/>
