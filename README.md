@@ -14,7 +14,7 @@
 <img width="20%" align="left" width="130px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/0%20T6tdupZFishq1o5t.png"/>
 </div>
 <br>
-<div width="100%">
+<div style="margin:5px" width="100%">
 <img align="left" width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/REACT.png"/>
 <img align="left" width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/Formik-1.png"/>
 <img align="left" width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/axios1.png"/>
