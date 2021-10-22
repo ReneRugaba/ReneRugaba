@@ -31,5 +31,5 @@
 <div  style="margin: 15px" width="100%">
 <img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/react-native-workshop (1).jpg"/>
 <img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/Logo-Docker.jpg"/>
-<img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/Python-Logo.jpg"/>
+<img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/PY.png"/>
 </div>
