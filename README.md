@@ -6,7 +6,12 @@
 
 
 
-## My skills:
+## MY SKILLS:
+
+## Language:
+
+## Framworks:
+
 <div  style="margin: 15px" width="100%">
 <img width="20%"  src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/SYMF.jpg"/>
 <img width="20%"  width="100px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/nest.png"/>
