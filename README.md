@@ -15,11 +15,11 @@
 </div>
 <br>
 <div width="100%">
-<img align="left" width="130px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/REACT.png"/>
-<img align="left" width="130px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/Formik-1.png"/>
-<img align="left" width="130px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/axios1.png"/>
-<img align="left" width="130px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/ANGULAR.png"/>
-<img align="left" width="130px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/MDB.jpg"/>
+<img align="left" width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/REACT.png"/>
+<img align="left" width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/Formik-1.png"/>
+<img align="left" width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/axios1.png"/>
+<img align="left" width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/ANGULAR.png"/>
+<img align="left" width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/MDB.jpg"/>
 </div>
 <br>
 <div width="100%">
