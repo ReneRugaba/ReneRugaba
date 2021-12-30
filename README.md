@@ -9,7 +9,7 @@
 ## MY SKILLS:
 
 ## Languages:
-<div  style="margin: 15px" width="100%">
+<div  style="margin: 5px" width="100%">
  <img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/astuces-php1.jpg"/>
 <img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/java-logo.jpg"/>
 <img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/html-css-js.jpg"/>
