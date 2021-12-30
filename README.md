@@ -9,7 +9,7 @@
 ## MY SKILLS:
 
 ## Languages:
-![](https://github.com/ReneRugaba/ReneRugaba/blob/main/img/astuces-php1.jpg | width=20px)
+![](https://github.com/ReneRugaba/ReneRugaba/blob/main/img/astuces-php1.jpg | width="20px")
 <div  style="margin: 5px" width="100%">
  
  <img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/astuces-php1.jpg"/>
