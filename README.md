@@ -19,27 +19,16 @@
 
 
 ## Framworks / Libraries:
+![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) 
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-<div  style="margin: 15px" width="100%">
-<img width="20%"  width="100px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/nest.png"/>
-<img width="20%"  width="130px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/0%20T6tdupZFishq1o5t.png"/>
-<img width="20%"  src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/SYMF.jpg"/>
-<img width="20%"  width="130px" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/express.png"/>
-
-</div>
-<br>
-<div style="margin: 15px" width="100%">
-<img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/Formik-1.png"/>
-<img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/axios1.png"/>
-<img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/REACT.png"/>
-<img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/ANGULAR.png"/>
-
-</div>
-<br>
-<div  style="margin: 15px" width="100%">
-
-<img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/Logo-Docker.jpg"/>
-<img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/MDB.jpg"/>
-<img  width="20%" src="https://github.com/ReneRugaba/ReneRugaba/blob/main/img/react-native-workshop (1).jpg"/>
-</div>
 
