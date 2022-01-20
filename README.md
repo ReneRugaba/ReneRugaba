@@ -32,3 +32,7 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 
+### Github trophies:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ReneRugaba&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
