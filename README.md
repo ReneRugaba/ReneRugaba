@@ -1,4 +1,4 @@
-### Hi there, my name is Rugaba René Jean 👋
+# Hi there, my name is Rugaba René Jean 👋
 
 ## I am a backend developer! welcome!
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ReneRugaba&theme=monokai)
@@ -8,7 +8,7 @@
 
 ## MY SKILLS:
 
-## Languages:
+### Languages:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -18,7 +18,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
-## Framworks / Libraries:
+### Framworks / Libraries:
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
