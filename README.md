@@ -42,3 +42,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ReneRugaba&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=eneRugaba)](https://github.com/ryo-ma/github-profile-trophy)
+
