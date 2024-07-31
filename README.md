@@ -40,5 +40,7 @@
 
 ### Github trophies:
 
-<-- [![trophy](https://github-profile-trophy.vercel.app/?username=ReneRugaba&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)[](url) -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ReneRugaba&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)[](url) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=ReneRugaba&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)[](url)[](url)
+
 
