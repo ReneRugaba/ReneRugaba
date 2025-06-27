@@ -18,6 +18,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
+
 ### Framworks / Libraries:
 ![doker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![dotnet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -42,5 +43,6 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ReneRugaba&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)[](url) -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=ReneRugaba&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)[](url)[](url)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ReneRugaba&theme&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
