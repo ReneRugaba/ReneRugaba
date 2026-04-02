@@ -39,8 +39,5 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 
-### Github trophies:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ReneRugaba&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)[](url)[](url)
 
 
